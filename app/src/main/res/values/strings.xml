@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">zomorodiprozhect</string>
+    <string name="edt_name" translatable="false">نام</string>
+    <string name="edt_family" translatable="false">نام خانوادگی</string>
+    <string name="btn" translatable="false">ورود</string>
+    <string name="tv_name" translatable="false">aaa</string>
+</resources>
